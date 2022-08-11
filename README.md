@@ -1,0 +1,6 @@
+{
+warriors {
+id
+name
+}
+}
